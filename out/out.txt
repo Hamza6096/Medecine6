@@ -1,0 +1,43 @@
+Gilles est un patient
+grippe est une maladie
+Gilles contracte la maladie grippe
+Marc est un médecin (tarif: 30)
+Marc reçoit Gilles en consultation
+aspirine est un médicament (prix: 10)
+paracetamol est un médicament (prix: 7)
+Marc prescrit aspirine, paracetamol à Gilles
+Marc demande 30 à Gilles
+Gilles paie 30 à Marc
+Robert est un patient
+rhinite est une maladie
+Robert contracte la maladie rhinite
+Marc reçoit Robert en consultation
+oxymetazoline est un médicament (prix: 18)
+Marc prescrit aspirine, oxymetazoline à Robert
+Marc demande 30 à Robert
+Robert paie 30 à Marc
+Paul est un pharmacien
+Paul vend aspirine (10), paracetamol (7) à Gilles
+Gilles paie 17 à Paul
+Gilles guérit de la maladie grippe
+Paul vend aspirine (10), oxymetazoline (18) à Robert
+Robert paie 28 à Paul
+Robert guérit de la maladie rhinite
+Consultations de Marc:
+	Gilles (grippe)
+		aspirine
+		paracetamol
+	Robert (rhinite)
+		aspirine
+		oxymetazoline
+	Total: 2 consultations
+Ventes de Paul:
+	Gilles
+		aspirine (10)
+		paracetamol (7)
+		Sous-total: 17
+	Robert
+		aspirine (10)
+		oxymetazoline (18)
+		Sous-total: 28
+	Grand-total: 45 (2 ventes)
